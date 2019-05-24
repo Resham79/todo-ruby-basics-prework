@@ -1,9 +1,11 @@
 def division(num1, num2)
- 
+ num1 = 36
+ num2 = 6
+ return num = num1/num2
 end
 
 def assign_variable(value)
-  
+  puts value 
 end
 
 def argue
